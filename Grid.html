@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Styles.css">
+    <link rel="stylesheet" href="Grid.html">
+    <link rel="Services" href="">
+    <title>Sweets and Chocolates</title>
+    
+    <style>
+        header {grid-area: header;}
+        nav {grid-area: nav;}
+        main {grid-area: main;}
+        aside {grid-area: aside;}
+        footer {grid-area: footer;}
+        
+        .grid-container {
+            display: grid;
+            grid-template-areas:
+            'header header header header header'
+            'nav nav nav nav aside'
+            'main main main main aside'
+            'footer footer footer footer footer';
+            gap: 20px;
+            padding: 20px; 
+            
+        }
+    </style>
+</head>
+<body>
+    <div class="grid-container">
+    <header>
+        <h1>Sweets and Chocolates</h1>
+   </header>
+   <nav>
+    <a href="Page 2.html">Contact Us</a> <a href="Services.html">Services</a> 
+   </nav>
+    
+   <main>
+    <p1></p1>
+    </main>
+    <aside>
+    </aside>
+    </div>
+</body>
+</html>
