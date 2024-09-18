@@ -65,5 +65,26 @@ p1 {
 img {max-width: 50%;
 
 }
+
+#img {
+    max-width: 300%;
+    margin-left: 110%;
+    padding-bottom: 20px;
     
+}
+    
+#choco {
+    max-width: 300%;
+    margin-left: 110%;
+    padding-bottom: 20px;
+}
+
+#Haut {
+    max-width: 36.5%;
+}
    
+#Hehe {
+    max-width: 300%;
+    margin-left: 110%;
+   
+}
