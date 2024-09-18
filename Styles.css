@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 body {
-    background-color:#8c04ad86;
+    background-color:#68028186;
     width: 50%;
     margin: auto;
     max-width: 50%;
@@ -9,7 +9,7 @@ body {
 
 
 header {
-    background-color: #8c04ad86;
+    background-color: #8304a386;
     padding: auto;
     color: #021120;
     font-size: 30px;
@@ -18,18 +18,18 @@ header {
     
 }
 
-center{ background-color: #8c04ad86;
+center{ background-color: #8304a386;
 
 }
 
 
-
-
-
-nav a {
-    font-size: 50px;
+a {
     text-decoration: none;
     color: #021120;
+}
+
+
+nav {
     font-size: 30px;
 
 }
